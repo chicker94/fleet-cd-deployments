@@ -22,7 +22,3 @@ targetCustomizations:
     paths:
     - clusters/dev/
 
-# 기본 배포 설정
-kustomize: false
-paths:
-- none  # 기본 경로 비활성화
