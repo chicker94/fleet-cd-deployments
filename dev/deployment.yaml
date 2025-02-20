@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: rancher-ci-test-web-dev
-        image: chicker94/rancher-ci-test:dev-ee5ada9
+        image: chicker94/rancher-ci-test:dev-db4e774
         ports:
         - containerPort: 8080
 
